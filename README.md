@@ -8,5 +8,5 @@ present in the training data labels).
 Model currently has two implementations.  Both involve significant image pre-processing that feeds into 1) a Sobel filtering method and 2) Mask R-CNNs (as outlined in https://arxiv.org/pdf/1703.06870.pdf).
 
 
-*Currently in the process of migrating files and forks over to this repo, including visualization, classical attempts at segmentation, 
-model evaluation,and leading attempt(s) (after necessary passing of first project deadline).*
+* Currently in the process of migrating files and forks over to this repo, including visualization, classical attempts at segmentation, 
+model evaluation,and leading attempt(s) (after necessary passing of first project deadline). *
